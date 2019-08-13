@@ -2,7 +2,7 @@
     "%vlocity_namespace%__Active__c": true,
     "%vlocity_namespace%__Level__c": 2,
     "%vlocity_namespace%__OmniScriptId__c": {
-        "Name": "Soft Credit Check",
+        "Name": "Hard Credit Check",
         "VlocityDataPackType": "VlocityMatchingKeyObject",
         "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Agent/CreditCheck/English",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
