@@ -1,7 +1,6 @@
 {
     "%vlocity_namespace%__AdditionalInformation__c": "Soft Credit Check flow, sets certain default values",
     "%vlocity_namespace%__Element__c": [
-        "Agent_CreditCheck_English_Element_Aboutyou.json",
         "Agent_CreditCheck_English_Element_Address.json",
         "Agent_CreditCheck_English_Element_Address2.json",
         "Agent_CreditCheck_English_Element_AverageDescription.json",
