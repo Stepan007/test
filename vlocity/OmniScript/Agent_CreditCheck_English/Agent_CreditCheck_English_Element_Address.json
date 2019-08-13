@@ -46,8 +46,8 @@
                 "value": "2 Rivington Road"
             },
             {
-                "name": "3 Rivington Road",
-                "value": "3 Rivington Road"
+                "name": "3 Conflicting Option 2",
+                "value": "3 Conflicting Option 2"
             }
         ],
         "readOnly": false,
