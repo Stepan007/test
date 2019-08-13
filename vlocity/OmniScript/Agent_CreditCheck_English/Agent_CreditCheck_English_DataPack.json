@@ -8,6 +8,7 @@
         "Agent_CreditCheck_English_Element_CCStubRequestAction.json",
         "Agent_CreditCheck_English_Element_CheckCredit.json",
         "Agent_CreditCheck_English_Element_City.json",
+        "Agent_CreditCheck_English_Element_ConflictingElement1.json",
         "Agent_CreditCheck_English_Element_County.json",
         "Agent_CreditCheck_English_Element_CreditCheckResult.json",
         "Agent_CreditCheck_English_Element_Dateofbirth.json",
